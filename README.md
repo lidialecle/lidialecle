@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Estatísticas do GitHub](https://vercel.app)
+
+![Linguagens Mais Usadas](https://vercel.app)
 <!--
 **lidialecle/lidialecle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
