@@ -1,5 +1,7 @@
 ### 📊 GitHub Stats
-
-[![](https://raw.githubusercontent.com/lidialecle/lidialecle/main/profile-summary-card-output/midnight_purple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/lidialecle/lidialecle/main/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lidialecle/lidialecle/main/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/lidialecle/lidialecle/main/profile-summary-card-output/midnight_purple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lidialecle/lidialecle/main/profile-summary-card-output/midnight_purple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=lidialecle&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true&title_color=273cf5" />
+  <img height="165" src="https://streak-stats.demolab.com?user=lidialecle&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak stats" />
+  <br/>
+  <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs?username=lidialecle&layout=compact&langs_count=4&theme=midnight-purple&hide_border=true&title_color=273cf5" alt="top langs" />
+</div>
