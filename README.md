@@ -12,3 +12,11 @@
     <img src="https://lastfm-recently-played.vercel.app/api?user=lidialecle&bg_color=000000&show_user=header&footer_style=compact_stats&maxage=60" alt="My scrobbles" width="40%">
   </a>
 </div>
+
+###
+<h2 align="center">Profile View</h2>
+<div align="center">
+  <img src="https://count.getloli.com/@lidialecle?theme=love-and-deepspace&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"  />
+</div>
+
+###
